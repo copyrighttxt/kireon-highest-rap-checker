@@ -3,6 +3,6 @@ Python script that searches all users RAP on Kireon sends it to a discord webhoo
 
 
 # Hows it work?
-It requests a Kireon API, checks all User IDS, finds inventory_rap, and tells you it.
+It requests a Kireon API, checks all User IDS, finds inventory_rap, and tells you the value.
 
 https://www.kireon.xyz/public-api/v1/users/
