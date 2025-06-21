@@ -1,4 +1,4 @@
-# Kireon.xyz highest RAP finder
+# Kireon.xyz RAP Checker
 Python script that searches all users RAP on Kireon sends it to a discord webhook and pings you.
 
 
